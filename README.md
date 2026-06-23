@@ -42,4 +42,5 @@ COUNT helps SOC teams generate accurate shift metrics without manually filtering
 
 ## Example Output
 
-<img width="1455" height="569" alt="image" src="https://github.com/user-attachments/assets/fcff93de-28ec-441d-805f-07e573fa0982" />
+<img width="1338" height="625" alt="image" src="https://github.com/user-attachments/assets/20f0be1e-55f4-42be-b3e0-d34bfa91ba80" />
+
