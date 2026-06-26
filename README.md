@@ -7,6 +7,7 @@ A lightweight JavaScript bookmarklet designed for SOC analysts to quickly calcul
 COUNT helps SOC teams generate accurate shift metrics without manually filtering cases. The bookmarklet retrieves case information directly from the SOAR platform, categorizes tickets by shift, removes automation-generated entries, and provides a cleaner representation of analyst workload.
 
 ## Features
+<img width="1363" height="561" alt="image" src="https://github.com/user-attachments/assets/244b6019-8438-452c-9872-61fc6c134ba7" />
 
 - 📊 Counts cases created during SOC shifts
 - 🚫 Excludes automation-generated cases from totals
