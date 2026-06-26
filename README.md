@@ -1,4 +1,4 @@
-# GSOAR-COUNT – SOC Shift Case Counter
+# GSOAR-COUNT – SOC Shift Case Counter  (  Chronicle SOAR )
 
 A lightweight JavaScript bookmarklet designed for SOC analysts to quickly calculate the number of cases/tickets created during each shift while automatically excluding automation-generated cases from the final count.
 
